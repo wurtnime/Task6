@@ -1,0 +1,57 @@
+C:\Users\Segor\Desktop\VANloveGVOZDEV\ArtemBoy\ArtemBoy\bin\Debug\net8.0-windows\ArtemBoy.exe
+C:\Users\Segor\Desktop\VANloveGVOZDEV\ArtemBoy\ArtemBoy\bin\Debug\net8.0-windows\ArtemBoy.deps.json
+C:\Users\Segor\Desktop\VANloveGVOZDEV\ArtemBoy\ArtemBoy\bin\Debug\net8.0-windows\ArtemBoy.runtimeconfig.json
+C:\Users\Segor\Desktop\VANloveGVOZDEV\ArtemBoy\ArtemBoy\bin\Debug\net8.0-windows\ArtemBoy.dll
+C:\Users\Segor\Desktop\VANloveGVOZDEV\ArtemBoy\ArtemBoy\bin\Debug\net8.0-windows\ArtemBoy.pdb
+C:\Users\Segor\Desktop\VANloveGVOZDEV\ArtemBoy\ArtemBoy\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Segor\Desktop\VANloveGVOZDEV\ArtemBoy\ArtemBoy\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Segor\Desktop\VANloveGVOZDEV\ArtemBoy\ArtemBoy\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Segor\Desktop\VANloveGVOZDEV\ArtemBoy\ArtemBoy\obj\Debug\net8.0-windows\ArtemBoy_MarkupCompile.cache
+C:\Users\Segor\Desktop\VANloveGVOZDEV\ArtemBoy\ArtemBoy\obj\Debug\net8.0-windows\ArtemBoy.g.resources
+C:\Users\Segor\Desktop\VANloveGVOZDEV\ArtemBoy\ArtemBoy\obj\Debug\net8.0-windows\ArtemBoy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Segor\Desktop\VANloveGVOZDEV\ArtemBoy\ArtemBoy\obj\Debug\net8.0-windows\ArtemBoy.AssemblyInfoInputs.cache
+C:\Users\Segor\Desktop\VANloveGVOZDEV\ArtemBoy\ArtemBoy\obj\Debug\net8.0-windows\ArtemBoy.AssemblyInfo.cs
+C:\Users\Segor\Desktop\VANloveGVOZDEV\ArtemBoy\ArtemBoy\obj\Debug\net8.0-windows\ArtemBoy.csproj.CoreCompileInputs.cache
+C:\Users\Segor\Desktop\VANloveGVOZDEV\ArtemBoy\ArtemBoy\obj\Debug\net8.0-windows\ArtemBoy.dll
+C:\Users\Segor\Desktop\VANloveGVOZDEV\ArtemBoy\ArtemBoy\obj\Debug\net8.0-windows\refint\ArtemBoy.dll
+C:\Users\Segor\Desktop\VANloveGVOZDEV\ArtemBoy\ArtemBoy\obj\Debug\net8.0-windows\ArtemBoy.pdb
+C:\Users\Segor\Desktop\VANloveGVOZDEV\ArtemBoy\ArtemBoy\obj\Debug\net8.0-windows\ArtemBoy.genruntimeconfig.cache
+C:\Users\Segor\Desktop\VANloveGVOZDEV\ArtemBoy\ArtemBoy\obj\Debug\net8.0-windows\ref\ArtemBoy.dll
+F:\ОП\Практика №6\ArtemBoy\ArtemBoy\bin\Debug\net8.0-windows\ArtemBoy.exe
+F:\ОП\Практика №6\ArtemBoy\ArtemBoy\bin\Debug\net8.0-windows\ArtemBoy.deps.json
+F:\ОП\Практика №6\ArtemBoy\ArtemBoy\bin\Debug\net8.0-windows\ArtemBoy.runtimeconfig.json
+F:\ОП\Практика №6\ArtemBoy\ArtemBoy\bin\Debug\net8.0-windows\ArtemBoy.dll
+F:\ОП\Практика №6\ArtemBoy\ArtemBoy\bin\Debug\net8.0-windows\ArtemBoy.pdb
+F:\ОП\Практика №6\ArtemBoy\ArtemBoy\obj\Debug\net8.0-windows\MainWindow.baml
+F:\ОП\Практика №6\ArtemBoy\ArtemBoy\obj\Debug\net8.0-windows\MainWindow.g.cs
+F:\ОП\Практика №6\ArtemBoy\ArtemBoy\obj\Debug\net8.0-windows\App.g.cs
+F:\ОП\Практика №6\ArtemBoy\ArtemBoy\obj\Debug\net8.0-windows\ArtemBoy_MarkupCompile.cache
+F:\ОП\Практика №6\ArtemBoy\ArtemBoy\obj\Debug\net8.0-windows\ArtemBoy.g.resources
+F:\ОП\Практика №6\ArtemBoy\ArtemBoy\obj\Debug\net8.0-windows\ArtemBoy.GeneratedMSBuildEditorConfig.editorconfig
+F:\ОП\Практика №6\ArtemBoy\ArtemBoy\obj\Debug\net8.0-windows\ArtemBoy.AssemblyInfoInputs.cache
+F:\ОП\Практика №6\ArtemBoy\ArtemBoy\obj\Debug\net8.0-windows\ArtemBoy.AssemblyInfo.cs
+F:\ОП\Практика №6\ArtemBoy\ArtemBoy\obj\Debug\net8.0-windows\ArtemBoy.csproj.CoreCompileInputs.cache
+F:\ОП\Практика №6\ArtemBoy\ArtemBoy\obj\Debug\net8.0-windows\ArtemBoy.dll
+F:\ОП\Практика №6\ArtemBoy\ArtemBoy\obj\Debug\net8.0-windows\refint\ArtemBoy.dll
+F:\ОП\Практика №6\ArtemBoy\ArtemBoy\obj\Debug\net8.0-windows\ArtemBoy.pdb
+F:\ОП\Практика №6\ArtemBoy\ArtemBoy\obj\Debug\net8.0-windows\ArtemBoy.genruntimeconfig.cache
+F:\ОП\Практика №6\ArtemBoy\ArtemBoy\obj\Debug\net8.0-windows\ref\ArtemBoy.dll
+D:\ОП\Практика №6\ArtemBoy\ArtemBoy\bin\Debug\net8.0-windows\ArtemBoy.exe
+D:\ОП\Практика №6\ArtemBoy\ArtemBoy\bin\Debug\net8.0-windows\ArtemBoy.deps.json
+D:\ОП\Практика №6\ArtemBoy\ArtemBoy\bin\Debug\net8.0-windows\ArtemBoy.runtimeconfig.json
+D:\ОП\Практика №6\ArtemBoy\ArtemBoy\bin\Debug\net8.0-windows\ArtemBoy.dll
+D:\ОП\Практика №6\ArtemBoy\ArtemBoy\bin\Debug\net8.0-windows\ArtemBoy.pdb
+D:\ОП\Практика №6\ArtemBoy\ArtemBoy\obj\Debug\net8.0-windows\MainWindow.baml
+D:\ОП\Практика №6\ArtemBoy\ArtemBoy\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\ОП\Практика №6\ArtemBoy\ArtemBoy\obj\Debug\net8.0-windows\App.g.cs
+D:\ОП\Практика №6\ArtemBoy\ArtemBoy\obj\Debug\net8.0-windows\ArtemBoy_MarkupCompile.cache
+D:\ОП\Практика №6\ArtemBoy\ArtemBoy\obj\Debug\net8.0-windows\ArtemBoy.g.resources
+D:\ОП\Практика №6\ArtemBoy\ArtemBoy\obj\Debug\net8.0-windows\ArtemBoy.GeneratedMSBuildEditorConfig.editorconfig
+D:\ОП\Практика №6\ArtemBoy\ArtemBoy\obj\Debug\net8.0-windows\ArtemBoy.AssemblyInfoInputs.cache
+D:\ОП\Практика №6\ArtemBoy\ArtemBoy\obj\Debug\net8.0-windows\ArtemBoy.AssemblyInfo.cs
+D:\ОП\Практика №6\ArtemBoy\ArtemBoy\obj\Debug\net8.0-windows\ArtemBoy.csproj.CoreCompileInputs.cache
+D:\ОП\Практика №6\ArtemBoy\ArtemBoy\obj\Debug\net8.0-windows\ArtemBoy.dll
+D:\ОП\Практика №6\ArtemBoy\ArtemBoy\obj\Debug\net8.0-windows\refint\ArtemBoy.dll
+D:\ОП\Практика №6\ArtemBoy\ArtemBoy\obj\Debug\net8.0-windows\ArtemBoy.pdb
+D:\ОП\Практика №6\ArtemBoy\ArtemBoy\obj\Debug\net8.0-windows\ArtemBoy.genruntimeconfig.cache
+D:\ОП\Практика №6\ArtemBoy\ArtemBoy\obj\Debug\net8.0-windows\ref\ArtemBoy.dll

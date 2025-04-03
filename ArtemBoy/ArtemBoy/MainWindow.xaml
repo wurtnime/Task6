@@ -1,0 +1,18 @@
+﻿<Window x:Class="LogicExpressionsWPFApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Практическая №6 // made in Serega Pirat" Height="450" Width="800">
+        
+    <Grid>
+        <Label Content="Введите номер задания от 1 до 21:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,10,0,0"/>
+        <TextBox Name="TaskNumberTextBox" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,40,0,0" Width="100"/>
+
+        <Label Content="Введите значения через запятую:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,80,0,0"/>
+        <TextBox Name="InputValuesTextBox" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,110,0,0" Width="200"/>
+
+        <Button Name="SolveButton" Content="Решить" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,150,0,0" Width="100" Click="SolveButton_Click"/>
+
+        <TextBlock Name="OutputTextBlock" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,200,0,0" Width="760" Height="200" TextWrapping="Wrap"/>
+    </Grid>
+</Window>
+

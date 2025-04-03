@@ -1,0 +1,43 @@
+C:\Users\Segor\Desktop\VANloveGVOZDEV\FimozPoVenom\FimozPoVenom\bin\Debug\net8.0\FimozPoVenom.exe
+C:\Users\Segor\Desktop\VANloveGVOZDEV\FimozPoVenom\FimozPoVenom\bin\Debug\net8.0\FimozPoVenom.deps.json
+C:\Users\Segor\Desktop\VANloveGVOZDEV\FimozPoVenom\FimozPoVenom\bin\Debug\net8.0\FimozPoVenom.runtimeconfig.json
+C:\Users\Segor\Desktop\VANloveGVOZDEV\FimozPoVenom\FimozPoVenom\bin\Debug\net8.0\FimozPoVenom.dll
+C:\Users\Segor\Desktop\VANloveGVOZDEV\FimozPoVenom\FimozPoVenom\bin\Debug\net8.0\FimozPoVenom.pdb
+C:\Users\Segor\Desktop\VANloveGVOZDEV\FimozPoVenom\FimozPoVenom\obj\Debug\net8.0\FimozPoVenom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Segor\Desktop\VANloveGVOZDEV\FimozPoVenom\FimozPoVenom\obj\Debug\net8.0\FimozPoVenom.AssemblyInfoInputs.cache
+C:\Users\Segor\Desktop\VANloveGVOZDEV\FimozPoVenom\FimozPoVenom\obj\Debug\net8.0\FimozPoVenom.AssemblyInfo.cs
+C:\Users\Segor\Desktop\VANloveGVOZDEV\FimozPoVenom\FimozPoVenom\obj\Debug\net8.0\FimozPoVenom.csproj.CoreCompileInputs.cache
+C:\Users\Segor\Desktop\VANloveGVOZDEV\FimozPoVenom\FimozPoVenom\obj\Debug\net8.0\FimozPoVenom.dll
+C:\Users\Segor\Desktop\VANloveGVOZDEV\FimozPoVenom\FimozPoVenom\obj\Debug\net8.0\refint\FimozPoVenom.dll
+C:\Users\Segor\Desktop\VANloveGVOZDEV\FimozPoVenom\FimozPoVenom\obj\Debug\net8.0\FimozPoVenom.pdb
+C:\Users\Segor\Desktop\VANloveGVOZDEV\FimozPoVenom\FimozPoVenom\obj\Debug\net8.0\FimozPoVenom.genruntimeconfig.cache
+C:\Users\Segor\Desktop\VANloveGVOZDEV\FimozPoVenom\FimozPoVenom\obj\Debug\net8.0\ref\FimozPoVenom.dll
+F:\ОП\Практика №6\FimozPoVenom\FimozPoVenom\bin\Debug\net8.0\FimozPoVenom.exe
+F:\ОП\Практика №6\FimozPoVenom\FimozPoVenom\bin\Debug\net8.0\FimozPoVenom.deps.json
+F:\ОП\Практика №6\FimozPoVenom\FimozPoVenom\bin\Debug\net8.0\FimozPoVenom.runtimeconfig.json
+F:\ОП\Практика №6\FimozPoVenom\FimozPoVenom\bin\Debug\net8.0\FimozPoVenom.dll
+F:\ОП\Практика №6\FimozPoVenom\FimozPoVenom\bin\Debug\net8.0\FimozPoVenom.pdb
+F:\ОП\Практика №6\FimozPoVenom\FimozPoVenom\obj\Debug\net8.0\FimozPoVenom.GeneratedMSBuildEditorConfig.editorconfig
+F:\ОП\Практика №6\FimozPoVenom\FimozPoVenom\obj\Debug\net8.0\FimozPoVenom.AssemblyInfoInputs.cache
+F:\ОП\Практика №6\FimozPoVenom\FimozPoVenom\obj\Debug\net8.0\FimozPoVenom.AssemblyInfo.cs
+F:\ОП\Практика №6\FimozPoVenom\FimozPoVenom\obj\Debug\net8.0\FimozPoVenom.csproj.CoreCompileInputs.cache
+F:\ОП\Практика №6\FimozPoVenom\FimozPoVenom\obj\Debug\net8.0\FimozPoVenom.dll
+F:\ОП\Практика №6\FimozPoVenom\FimozPoVenom\obj\Debug\net8.0\refint\FimozPoVenom.dll
+F:\ОП\Практика №6\FimozPoVenom\FimozPoVenom\obj\Debug\net8.0\FimozPoVenom.pdb
+F:\ОП\Практика №6\FimozPoVenom\FimozPoVenom\obj\Debug\net8.0\FimozPoVenom.genruntimeconfig.cache
+F:\ОП\Практика №6\FimozPoVenom\FimozPoVenom\obj\Debug\net8.0\ref\FimozPoVenom.dll
+C:\Users\temax\OneDrive\Рабочий стол\оп\Практика №6\ConsoleApp6\FimozPoVenom\bin\Debug\net8.0\FimozPoVenom.exe
+C:\Users\temax\OneDrive\Рабочий стол\оп\Практика №6\ConsoleApp6\FimozPoVenom\bin\Debug\net8.0\FimozPoVenom.deps.json
+C:\Users\temax\OneDrive\Рабочий стол\оп\Практика №6\ConsoleApp6\FimozPoVenom\bin\Debug\net8.0\FimozPoVenom.runtimeconfig.json
+C:\Users\temax\OneDrive\Рабочий стол\оп\Практика №6\ConsoleApp6\FimozPoVenom\bin\Debug\net8.0\FimozPoVenom.dll
+C:\Users\temax\OneDrive\Рабочий стол\оп\Практика №6\ConsoleApp6\FimozPoVenom\bin\Debug\net8.0\FimozPoVenom.pdb
+C:\Users\temax\OneDrive\Рабочий стол\оп\Практика №6\ConsoleApp6\FimozPoVenom\obj\Debug\net8.0\FimozPoVenom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\temax\OneDrive\Рабочий стол\оп\Практика №6\ConsoleApp6\FimozPoVenom\obj\Debug\net8.0\FimozPoVenom.AssemblyInfoInputs.cache
+C:\Users\temax\OneDrive\Рабочий стол\оп\Практика №6\ConsoleApp6\FimozPoVenom\obj\Debug\net8.0\FimozPoVenom.AssemblyInfo.cs
+C:\Users\temax\OneDrive\Рабочий стол\оп\Практика №6\ConsoleApp6\FimozPoVenom\obj\Debug\net8.0\FimozPoVenom.csproj.CoreCompileInputs.cache
+C:\Users\temax\OneDrive\Рабочий стол\оп\Практика №6\ConsoleApp6\FimozPoVenom\obj\Debug\net8.0\FimozPoVenom.sourcelink.json
+C:\Users\temax\OneDrive\Рабочий стол\оп\Практика №6\ConsoleApp6\FimozPoVenom\obj\Debug\net8.0\FimozPoVenom.dll
+C:\Users\temax\OneDrive\Рабочий стол\оп\Практика №6\ConsoleApp6\FimozPoVenom\obj\Debug\net8.0\refint\FimozPoVenom.dll
+C:\Users\temax\OneDrive\Рабочий стол\оп\Практика №6\ConsoleApp6\FimozPoVenom\obj\Debug\net8.0\FimozPoVenom.pdb
+C:\Users\temax\OneDrive\Рабочий стол\оп\Практика №6\ConsoleApp6\FimozPoVenom\obj\Debug\net8.0\FimozPoVenom.genruntimeconfig.cache
+C:\Users\temax\OneDrive\Рабочий стол\оп\Практика №6\ConsoleApp6\FimozPoVenom\obj\Debug\net8.0\ref\FimozPoVenom.dll
